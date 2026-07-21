@@ -1,13 +1,13 @@
-package com.termux.shared.termux.theme;
+package com.devterm.shared.termux.theme;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux.shared.termux.settings.properties.TermuxPropertyConstants;
-import com.termux.shared.termux.settings.properties.TermuxSharedProperties;
-import com.termux.shared.theme.NightMode;
+import com.devterm.shared.termux.settings.properties.TermuxPropertyConstants;
+import com.devterm.shared.termux.settings.properties.TermuxSharedProperties;
+import com.devterm.shared.theme.NightMode;
 
 public class TermuxThemeUtils {
 

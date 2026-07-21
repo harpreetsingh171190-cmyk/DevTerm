@@ -1,4 +1,4 @@
-package com.termux.shared.android;
+package com.devterm.shared.android;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -6,8 +6,8 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux.shared.logger.Logger;
-import com.termux.shared.reflection.ReflectionUtils;
+import com.devterm.shared.logger.Logger;
+import com.devterm.shared.reflection.ReflectionUtils;
 
 import java.lang.reflect.Method;
 import java.util.Map;

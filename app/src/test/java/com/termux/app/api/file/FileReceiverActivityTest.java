@@ -1,6 +1,6 @@
-package com.termux.app.api.file;
+package com.devterm.app.api.file;
 
-import com.termux.app.api.file.FileReceiverActivity;
+import com.devterm.app.api.file.FileReceiverActivity;
 
 import org.junit.Assert;
 import org.junit.Test;

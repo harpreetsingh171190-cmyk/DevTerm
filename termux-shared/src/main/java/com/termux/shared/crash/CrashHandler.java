@@ -1,14 +1,14 @@
-package com.termux.shared.crash;
+package com.devterm.shared.crash;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.file.FileUtils;
-import com.termux.shared.logger.Logger;
-import com.termux.shared.markdown.MarkdownUtils;
-import com.termux.shared.errors.Error;
-import com.termux.shared.android.AndroidUtils;
+import com.devterm.shared.file.FileUtils;
+import com.devterm.shared.logger.Logger;
+import com.devterm.shared.markdown.MarkdownUtils;
+import com.devterm.shared.errors.Error;
+import com.devterm.shared.android.AndroidUtils;
 
 import java.nio.charset.Charset;
 

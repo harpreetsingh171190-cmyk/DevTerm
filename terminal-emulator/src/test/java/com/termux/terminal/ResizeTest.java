@@ -1,4 +1,4 @@
-package com.termux.terminal;
+package com.devterm.terminal;
 
 public class ResizeTest extends TerminalTestCase {
 

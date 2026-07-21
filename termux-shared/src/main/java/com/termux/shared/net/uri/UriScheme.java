@@ -1,4 +1,4 @@
-package com.termux.shared.net.uri;
+package com.devterm.shared.net.uri;
 
 import android.net.Uri;
 

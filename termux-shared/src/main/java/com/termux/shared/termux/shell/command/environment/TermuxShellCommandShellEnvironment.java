@@ -1,14 +1,14 @@
-package com.termux.shared.termux.shell.command.environment;
+package com.devterm.shared.termux.shell.command.environment;
 
 import android.content.Context;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.shell.command.ExecutionCommand;
-import com.termux.shared.shell.command.environment.ShellCommandShellEnvironment;
-import com.termux.shared.shell.command.environment.ShellEnvironmentUtils;
-import com.termux.shared.termux.settings.preferences.TermuxAppSharedPreferences;
-import com.termux.shared.termux.shell.TermuxShellManager;
+import com.devterm.shared.shell.command.ExecutionCommand;
+import com.devterm.shared.shell.command.environment.ShellCommandShellEnvironment;
+import com.devterm.shared.shell.command.environment.ShellEnvironmentUtils;
+import com.devterm.shared.termux.settings.preferences.TermuxAppSharedPreferences;
+import com.devterm.shared.termux.shell.TermuxShellManager;
 
 import java.util.HashMap;
 

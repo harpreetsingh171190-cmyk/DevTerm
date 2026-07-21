@@ -1,10 +1,10 @@
-package com.termux.shared.settings.preferences;
+package com.devterm.shared.settings.preferences;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.termux.shared.logger.Logger;
+import com.devterm.shared.logger.Logger;
 
 import java.util.Set;
 
