@@ -1,0 +1,23 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <Button
+        android:id="@+id/updateAllButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🔄 Update All"/>
+
+
+    <TextView
+        android:id="@+id/updateLog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ready..."
+        android:padding="16dp"/>
+
+</LinearLayout>
