@@ -1,0 +1,58 @@
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="16dp">
+
+
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="🚀 DevTerm AI Developer Hub"
+android:textSize="22sp"/>
+
+
+<Button
+android:id="@+id/aiButton"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="🤖 AI Assistant"/>
+
+
+<Button
+android:id="@+id/updateButton"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="🔄 Update All"/>
+
+
+<Button
+android:id="@+id/downloadButton"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="📥 Media Downloader"/>
+
+
+<Button
+android:id="@+id/sshButton"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="🌐 SSH Client"/>
+
+
+<Button
+android:id="@+id/pluginButton"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="🔌 Plugins"/>
+
+
+<Button
+android:id="@+id/settingsButton"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="⚙️ Settings"/>
+
+
+</LinearLayout>
